@@ -1,0 +1,4 @@
+#Thu Aug 17 20:07:51 IDT 2017
+base.0=C\:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\transforms\\dex\\F0\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\transforms\\dex\\F0\\debug\\folders\\1000\\1f\\main\\classes.dex
