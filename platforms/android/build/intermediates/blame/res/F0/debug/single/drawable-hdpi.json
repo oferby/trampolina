@@ -8,6 +8,10 @@
         "source": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\src\\main\\res\\drawable-hdpi\\logo.png"
     },
     {
+        "merged": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\background1.png",
+        "source": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\src\\main\\res\\drawable-hdpi\\background1.png"
+    },
+    {
         "merged": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\icon.png",
         "source": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\src\\main\\res\\drawable-hdpi\\icon.png"
     }

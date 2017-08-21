@@ -1,0 +1,36 @@
+Page {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+TextField {
+    width: 80%;
+        
+}
+
+Label {
+    width: 80%;
+    color: black;
+    text-align: center;
+    
+
+}
+
+Button {
+    width: 80%;
+}
+
+button.proceed {
+    background-color: #84BD00;
+    font-weight: bold;
+    color: white;
+}
+
+Button.new-account {
+    
+    color: white;
+    font-weight: bold;
+    background-color: #FF8200;
+
+}
+

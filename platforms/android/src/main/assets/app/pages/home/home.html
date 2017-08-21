@@ -1,0 +1,20 @@
+<ActionBar title="Trampolina">
+        <ActionItem text="Share" (tap)="share()" android.systemIcon="ic_menu_share_holo_dark" ios.systemIcon="9" ios.position="right"></ActionItem>
+</ActionBar>
+<GridLayout rows="auto, auto, auto, *" class="home-bar">
+    <GridLayout row="0" columns="*, auto" class="name-bar">
+        <label text="ערב טוב, סמדר" col="0" class="greeting"></label>
+        <image src="res://avatar" class="avatar" col="1"></image>
+    </GridLayout>
+    <GridLayout #carbar row="1" class="car-bar shadowed" rows="*,*,*,*" columns="*,*">
+        <label text="סה'כ כיסוי רכב" row="0" colSpan="2" class="centered"></label>
+        <label text="{{total_covarage}} ש'ח" row="1" colSpan="2" class="bordered centered framed bolded"></label>
+        <label text="% השתתפות" row="2" col="1"></label>
+        <label text="0.012" row="2" col="0" class="bordered centered framed bolded"></label>
+        <button text="לפירוט>" row=3 class="detail"></button>
+    </GridLayout>
+    <GridLayout #paymants row="2" class="paymants-bar bordered shadowed" rows="*,*,*,*,*" columns="*,*">
+        <label text="סה'כ השתתפות בנזקים" row="0" colSpan="2" class="centered"></label>
+
+    </GridLayout>
+</GridLayout>

@@ -1,1 +1,29 @@
-@import "nativescript-theme-core/css/core.light.css";
+@import url("~/platform.css");
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+ActionBar {
+  background-color: black;
+  color: white;
+}
+
+Page {
+  background-color: white;
+  font-size: 15;
+}
+TextField {
+  padding: 10;
+  font-size: 13;
+}
+
+Label {
+  padding: 10;
+  font-size: 13;
+}
+
+.small-spacing {
+  margin: 5;
+}
+.medium-spacing {
+  margin: 10;
+}
+

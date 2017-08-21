@@ -1,6 +1,9 @@
 C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\app.component.js
 C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\app.module.js
+C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\app.router.js
 C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\main.js
+C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\pages\home\home.component.js
+C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\pages\login\login.component.js
 C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\tns_modules\nativescript-angular\animations.js
 C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\tns_modules\nativescript-angular\collection-facade.js
 C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\tns_modules\nativescript-angular\directives.js
@@ -210,3 +213,4 @@ C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\tns_modules
 C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\utils\utils.js
 C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\xhr\xhr.js
 C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\xml\xml.js
+C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\utils\status-bar-util.js

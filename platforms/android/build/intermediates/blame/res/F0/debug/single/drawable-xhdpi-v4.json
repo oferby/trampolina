@@ -40,12 +40,12 @@
         "source": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable-xhdpi-v4\\design_ic_visibility_off.png"
     },
     {
-        "merged": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
-        "source": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
         "merged": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
         "source": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png",
