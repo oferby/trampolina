@@ -1,0 +1,10 @@
+<StackLayout>
+    <StackLayout orientation="horizontal">
+        <image src="res://avatar" class="avatar"></image>
+        <label #question [text]="question"></label>
+    </StackLayout>
+    <StackLayout orientation="horizontal">
+        <TextField #answer [(ngModel)]="answer"></TextBox>
+        <image src="res://avatar" class="avatar"></image>
+    </StackLayout>
+</StackLayout>

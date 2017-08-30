@@ -1,9 +1,9 @@
 {
-	"time": "Mon Aug 21 2017 09:36:41 GMT+0300 (Jerusalem Daylight Time)",
+	"time": "Wed Aug 30 2017 12:06:01 GMT+0300 (Jerusalem Daylight Time)",
 	"nativePlatformStatus": "3",
 	"bundle": false,
 	"release": false,
 	"changesRequireBuild": false,
-	"projectFileHash": "806739f8659e4efd264e5bca71793d044239779a5c04f9fc0b17022cf27492ce",
-	"changesRequireBuildTime": "Mon Aug 21 2017 09:03:27 GMT+0300 (Jerusalem Daylight Time)"
+	"projectFileHash": "04d321c845620ba15b72c1be459fa8c1dfc228e1fb0ad3b5027b35c787b46568",
+	"changesRequireBuildTime": "Wed Aug 30 2017 11:43:10 GMT+0300 (Jerusalem Daylight Time)"
 }

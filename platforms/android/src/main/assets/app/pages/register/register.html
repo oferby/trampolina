@@ -1,0 +1,18 @@
+<GridLayout rows="*, auto" >
+    <ScrollView #scrollbar oriantation="vertical" row="0" >
+        <ListView [items]="questions">
+            <ng-template let-item=item>
+                    <StackLayout orientation="horizontal">
+                        <image src="res://avatar" class="avatar"></image>
+                        <label #question [text]="item.question"></label>
+                    </StackLayout>
+                    <StackLayout orientation="horizontal">
+                        <TextField #answer [(ngModel)]="item.answer"></TextField>
+                        <TextField #answer [(ngModel)]="item.answer"></TextField>
+                        <image src="res://avatar" class="avatar"></image>
+                    </StackLayout>
+            </ng-template>
+        </ListView> 
+    </ScrollView>
+    <button text="add child" (tap)="onButtonAdd()" row="1" class="add-btn"></button>
+</GridLayout>

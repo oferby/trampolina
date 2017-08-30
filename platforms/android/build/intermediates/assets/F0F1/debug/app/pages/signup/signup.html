@@ -1,0 +1,10 @@
+<StackLayout oriantation="vertical" class="bg-image">
+    <Label text="שם משתמש:" class="first-label"></Label>
+    <TextField [text]="username" autocorrect="false" autocapitalizationType="none" ></TextField>
+    <Label text="סיסמא:"></Label>
+    <TextField [text]="password" autocorrect="false" autocapitalizationType="none" secure="true"></TextField>
+    <Label text="אימות סיסמא:"></Label>
+    <TextField [text]="passwordAgain" autocorrect="false" autocapitalizationType="none" secure="true"></TextField>
+    <button text="המשך>" (tap)="onNext()"></button>
+
+</StackLayout>

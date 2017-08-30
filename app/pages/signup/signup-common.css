@@ -1,0 +1,32 @@
+.bg-image {
+    background-image: url("res://bg1");
+    background-size: 100% 100%;
+    background-repeat: no-repeat; 
+}
+
+
+TextField {
+    width: 80%;
+    border-width: 2; 
+    border-color: black;
+    border-radius: 5px;
+}
+
+Label {
+    width: 80%;
+    color: black;
+    text-align: right;
+    font-weight: bold;
+}
+
+Button {
+    align-self: left;
+    width: 30%;
+    color: white;
+    font-weight: bold;
+    background-color: #FF8200;
+}
+
+.first-label {
+    margin-top: 25%;
+}

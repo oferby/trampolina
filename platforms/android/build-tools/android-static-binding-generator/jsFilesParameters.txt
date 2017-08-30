@@ -2,8 +2,13 @@ C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\app.compone
 C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\app.module.js
 C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\app.router.js
 C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\main.js
+C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\pages\distress\distress.component.js
 C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\pages\home\home.component.js
 C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\pages\login\login.component.js
+C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\pages\register\register.component.js
+C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\pages\register\inputbox\inputbox.component.js
+C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\pages\signup\signup.component.js
+C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\shared\qanda.js
 C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\tns_modules\nativescript-angular\animations.js
 C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\tns_modules\nativescript-angular\collection-facade.js
 C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\tns_modules\nativescript-angular\directives.js
@@ -59,6 +64,8 @@ C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\tns_modules
 C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\tns_modules\nativescript-angular\value-accessors\text-value-accessor.js
 C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\tns_modules\nativescript-angular\value-accessors\time-value-accessor.js
 C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\tns_modules\nativescript-angular\zone-js\dist\zone-nativescript.js
+C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\tns_modules\nativescript-geolocation\geolocation.common.js
+C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\tns_modules\nativescript-geolocation\geolocation.js
 C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\tns_modules\nativescript-intl\index.js
 C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\tns_modules\nativescript-intl\nativescript-intl-common.js
 C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\tns_modules\nativescript-intl\nativescript-intl.js

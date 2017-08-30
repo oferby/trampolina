@@ -20,4 +20,8 @@ export class LoginComponent implements OnInit {
     submit(){
         this.router.navigate(["home"]);
     }
+
+    onCreateNew(){
+        this.router.navigate(["/signup"]);
+    }
 } 

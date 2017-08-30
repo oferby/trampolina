@@ -1,10 +1,10 @@
 image.avatar {
-    width: 200px;
+    width: 120px;
 }
 
 label.greeting {
     font-weight: bold;
-    font-size: 30;
+    font-size: 20;
     color: black;
 }
 
@@ -12,33 +12,33 @@ label.greeting {
     padding: 10 5;
 }
 
-.name-bar {
+/* .name-bar {
     margin: 6;
-}
+} */
 
-.car-bar {
+.shadowed {
     padding: 33 ;
-    background-image: url("res://black_frame"); 
+    background-image: url("res://black_frame1"); 
     background-size: 100% 100%;
     background-repeat: no-repeat; 
     
 }
 
-.car-bar label {
+.title {
     font-size: 20;    
 }
 
 .bordered {
-    border-width: 2; 
-    border-color: black;
+    /* border-width: 2; 
+    border-color: black; */
+    background-image: url("res://frame1");
+    background-size: 100% 100%;
+    background-repeat: no-repeat; 
+
 }
 
 .centered {
     text-align: center;
-}
-
-.shadowed {
-    box-shadow: 5px 5px 5px #888888;
 }
 
 .framed {
@@ -54,4 +54,16 @@ button.detail {
     background-color: #84BD00;
     /* border-radius: 64px; */
     /* width: 60%; */
+}
+
+.distress {
+    color: white;
+    background-color: red;
+    font-weight: bold;
+}
+
+.report {
+    color: white;
+    font-weight: bold;
+    background-color: #FF8200;
 }

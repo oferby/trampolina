@@ -27,10 +27,12 @@ button.proceed {
 }
 
 Button.new-account {
-    
     color: white;
     font-weight: bold;
     background-color: #FF8200;
-
 }
 
+.facebook-button {
+    background-color:  #0C0C8C;
+    color: white;
+  }

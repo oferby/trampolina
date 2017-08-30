@@ -1,0 +1,14 @@
+<ActionBar title="Trampolina">
+        <ActionItem text="Share" (tap)="share()" android.systemIcon="ic_menu_share_holo_dark" ios.systemIcon="9" ios.position="right"></ActionItem>
+</ActionBar>
+<GridLayout rows="auto, *" columns="*">
+        <StackLayout>
+                <Label text="Latitude: {{ latitude }}"></Label>
+                <Label text="Longitude: {{ longitude }}"></Label>
+                <Label text="Horizontal Accuracy: {{ horizontalAccuracy }}"></Label>
+                <Label text="verticalAccuracy: {{ verticalAccuracy }}"></Label>
+                <Button class="btn btn-primary btn-active" text="Update" (tap)="updateLocation()"></Button>
+                <Button class="btn btn-primary btn-active" text="Watch Location" (tap)="startWatchingLocation()"></Button>
+                <Button class="btn btn-primary btn-active" text="Stop Watching" (tap)="stopWatchingLocation()"></Button>
+            </StackLayout>
+</GridLayout>

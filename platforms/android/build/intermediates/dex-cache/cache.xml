@@ -8,7 +8,7 @@
         optimize="true"
         revision="26.0.0"
         sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="C:\dev\nativescript\Trampolina\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-25.3.1_7301ead84275c0824233b52e4565b77676a8a22c.jar" />
+        <dex dex="C:\dev\nativescript\Trampolina\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-media-compat-25.3.1_7301ead84275c0824233b52e4565b77676a8a22c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -17,7 +17,7 @@
         optimize="true"
         revision="26.0.0"
         sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="C:\dev\nativescript\Trampolina\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-25.3.1_3ac6b454892a90c49fe7e6744dc7003ad64716ab.jar" />
+        <dex dex="C:\dev\nativescript\Trampolina\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-vector-drawable-25.3.1_3ac6b454892a90c49fe7e6744dc7003ad64716ab.jar" />
     </item>
     <item
         is-multidex="false"
@@ -26,7 +26,7 @@
         optimize="true"
         revision="26.0.0"
         sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="C:\dev\nativescript\Trampolina\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-25.3.1_6b5f4684ef5cff6e20a525b8bd308ceeeb3404d8.jar" />
+        <dex dex="C:\dev\nativescript\Trampolina\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-compat-25.3.1_6b5f4684ef5cff6e20a525b8bd308ceeeb3404d8.jar" />
     </item>
     <item
         is-multidex="false"
@@ -35,7 +35,7 @@
         optimize="true"
         revision="26.0.0"
         sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
-        <dex dex="C:\dev\nativescript\Trampolina\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-25.3.1_1d36569148449a24e605c4ad7c9b2709f73e3488.jar" />
+        <dex dex="C:\dev\nativescript\Trampolina\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-design-25.3.1_1d36569148449a24e605c4ad7c9b2709f73e3488.jar" />
     </item>
     <item
         is-multidex="false"
@@ -44,7 +44,7 @@
         optimize="true"
         revision="26.0.0"
         sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="C:\dev\nativescript\Trampolina\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-25.3.1_1a4fab71ff5b24cdfe0bb66b41064b22fff3863c.jar" />
+        <dex dex="C:\dev\nativescript\Trampolina\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-core-utils-25.3.1_1a4fab71ff5b24cdfe0bb66b41064b22fff3863c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -53,7 +53,7 @@
         optimize="true"
         revision="26.0.0"
         sha1="95519720620b553f63afc789beba9ad582807f7c">
-        <dex dex="C:\dev\nativescript\Trampolina\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-25.3.1_887b62622c594de8d9835d1da2c07f08be2bde40.jar" />
+        <dex dex="C:\dev\nativescript\Trampolina\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-recyclerview-v7-25.3.1_887b62622c594de8d9835d1da2c07f08be2bde40.jar" />
     </item>
     <item
         is-multidex="false"
@@ -62,7 +62,7 @@
         optimize="true"
         revision="26.0.0"
         sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="C:\dev\nativescript\Trampolina\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-25.3.1_fe30c19bd9649471ec190778625f69c139ab2d06.jar" />
+        <dex dex="C:\dev\nativescript\Trampolina\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-core-ui-25.3.1_fe30c19bd9649471ec190778625f69c139ab2d06.jar" />
     </item>
     <item
         is-multidex="false"
@@ -71,7 +71,7 @@
         optimize="true"
         revision="26.0.0"
         sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
-        <dex dex="C:\dev\nativescript\Trampolina\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_907a98c325402856d4a3bf0385d6a977f999bd1f.jar" />
+        <dex dex="C:\dev\nativescript\Trampolina\platforms\android\build\intermediates\pre-dexed\F0F1\debug\binding-generator_907a98c325402856d4a3bf0385d6a977f999bd1f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -80,7 +80,7 @@
         optimize="true"
         revision="26.0.0"
         sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="C:\dev\nativescript\Trampolina\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-25.3.1_b34d438fccaf9d109a2bcf5fbb0ac014f58605c5.jar" />
+        <dex dex="C:\dev\nativescript\Trampolina\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-animated-vector-drawable-25.3.1_b34d438fccaf9d109a2bcf5fbb0ac014f58605c5.jar" />
     </item>
     <item
         is-multidex="false"
@@ -89,7 +89,7 @@
         optimize="true"
         revision="26.0.0"
         sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="C:\dev\nativescript\Trampolina\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-25.3.1_ce1011579ce8ff17513edfed2beb830fbe8ce651.jar" />
+        <dex dex="C:\dev\nativescript\Trampolina\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-fragment-25.3.1_ce1011579ce8ff17513edfed2beb830fbe8ce651.jar" />
     </item>
     <item
         is-multidex="false"
@@ -98,7 +98,7 @@
         optimize="true"
         revision="26.0.0"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\dev\nativescript\Trampolina\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-25.3.1_8aa0fe7c7ea559cb4745fa4ac964942b63d75155.jar" />
+        <dex dex="C:\dev\nativescript\Trampolina\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-v4-25.3.1_8aa0fe7c7ea559cb4745fa4ac964942b63d75155.jar" />
     </item>
     <item
         is-multidex="false"
@@ -107,7 +107,7 @@
         optimize="true"
         revision="26.0.0"
         sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="C:\dev\nativescript\Trampolina\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-25.3.1_22ee840024efe7842b172213b33343b3bc48044c.jar" />
+        <dex dex="C:\dev\nativescript\Trampolina\platforms\android\build\intermediates\pre-dexed\F0F1\debug\support-annotations-25.3.1_22ee840024efe7842b172213b33343b3bc48044c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -116,7 +116,7 @@
         optimize="true"
         revision="26.0.0"
         sha1="30b97ea5d6274e02330dcc69943087778363c172">
-        <dex dex="C:\dev\nativescript\Trampolina\platforms\android\build\intermediates\pre-dexed\F0\debug\Trampolina-runtime-unspecified_59ddf949a07bc0f416f32d247fd6323070167ed0.jar" />
+        <dex dex="C:\dev\nativescript\Trampolina\platforms\android\build\intermediates\pre-dexed\F0F1\debug\Trampolina-runtime-unspecified_59ddf949a07bc0f416f32d247fd6323070167ed0.jar" />
     </item>
     <item
         is-multidex="false"
@@ -125,7 +125,7 @@
         optimize="true"
         revision="26.0.0"
         sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="C:\dev\nativescript\Trampolina\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-25.3.1_0b487615662bb80eba2422e683f067876e9590bc.jar" />
+        <dex dex="C:\dev\nativescript\Trampolina\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-appcompat-v7-25.3.1_0b487615662bb80eba2422e683f067876e9590bc.jar" />
     </item>
     <item
         is-multidex="false"
@@ -134,7 +134,7 @@
         optimize="true"
         revision="26.0.0"
         sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
-        <dex dex="C:\dev\nativescript\Trampolina\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-transition-25.3.1_497388c465ecff0c8988ca8577106cebd32f7daf.jar" />
+        <dex dex="C:\dev\nativescript\Trampolina\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-transition-25.3.1_497388c465ecff0c8988ca8577106cebd32f7daf.jar" />
     </item>
     <item
         is-multidex="false"
@@ -143,7 +143,7 @@
         optimize="true"
         revision="26.0.0"
         sha1="ada15dd7aad50793dcd67b281a8eb06e80007500">
-        <dex dex="C:\dev\nativescript\Trampolina\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_493b3d5e8576ae143cc8053b535f0ffb7eaf9d09.jar" />
+        <dex dex="C:\dev\nativescript\Trampolina\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-widgets-release_493b3d5e8576ae143cc8053b535f0ffb7eaf9d09.jar" />
     </item>
 
 </items>
