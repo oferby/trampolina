@@ -3,6 +3,7 @@ import { LoginComponent } from "./pages/login/login.component";
 import { DistressComponent} from "./pages/distress/distress.component";
 import { RegisterComponent } from "./pages/register/register.component";
 import { SingnupComponent } from "./pages/signup/signup.component";
+import { MainComponent } from "./pages/main/main.component";
 
 export const routes = [
   { path: "", component: LoginComponent },
@@ -10,7 +11,8 @@ export const routes = [
   { path: "login", component: LoginComponent},
   { path: "distress", component: DistressComponent},
   { path: "register", component: RegisterComponent},
-  { path: "signup", component: SingnupComponent}
+  { path: "signup", component: SingnupComponent},
+  { path: "main", component: MainComponent}
 ];
 
 export const navigatableComponents = [
@@ -18,5 +20,6 @@ export const navigatableComponents = [
   LoginComponent,
   DistressComponent,
   RegisterComponent,
-  SingnupComponent
+  SingnupComponent,
+  MainComponent
 ];

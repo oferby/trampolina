@@ -10,15 +10,6 @@ Page {
   background-color: white;
   font-size: 15;
 }
-TextField {
-  padding: 10;
-  font-size: 13;
-}
-
-Label {
-  padding: 10;
-  font-size: 13;
-}
 
 .small-spacing {
   margin: 5;
@@ -27,3 +18,22 @@ Label {
   margin: 10;
 }
 
+.bolded {
+  font-weight: bold;
+}
+
+.centered {
+  text-align: center;
+}
+
+.font-big {
+  font-size: 20;
+}
+
+.font-small {
+  font-size: 10;
+}
+
+.width-100 {
+  width: 100%;
+}

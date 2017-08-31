@@ -1,0 +1,47 @@
+<!-- <ActionBar title="" >
+    <ActionItem>
+        <image src="res://logo_w" class="logo"></image>
+    </ActionItem>
+    <ActionItem text="Share" (tap)="share()" android.systemIcon="ic_menu_share_holo_dark" ios.systemIcon="9" ios.position="right"></ActionItem>
+</ActionBar> -->
+<StackLayout>
+    <GridLayout rows="auto" columns="*,*,*" class="action-bar">
+            <image src="res://ic_menu_black_24dp" class="actionitem logo" col=0></image>
+            <image src="res://logo_w" class="actionitem logo" col=1></image>
+            <image src="res://ic_menu_black_24dp" class="actionitem logo" col=2></image>
+    </GridLayout>
+    <GridLayout rows="auto,auto,auto,auto,*" columns="auto,auto" class="grid">
+        <GridLayout row="0" colSpan=2 rows="auto,auto" columns="*,auto, auto" class="name-bar">
+            <label text="ערב טוב, סמדר" row=0 col="1" class="greeting"></label>
+            <image src="res://avatar" class="avatar" row=0 col="2"></image>
+            <label text="מה תרצי לעשות היום?" class="what-question" row=1 col=1></label>
+        </GridLayout>
+        <StackLayout row=1 col=0 class="box">
+            <image src="res://button5" ></image>
+            <label text="ביטוח רכב" class="type"></label>
+        </StackLayout>
+        <StackLayout row=1 col=1 class="box">
+            <image src="res://button6" ></image>
+            <label text="ביטוח דירה" class="type"></label>
+        </StackLayout>
+        <StackLayout row=2 col=0 class="box">
+            <image src="res://button7" ></image>
+            <label text="ביטוח חיים" class="type"></label>
+        </StackLayout>
+        <StackLayout row=2 col=1 class="box">
+            <image src="res://button9" ></image>
+            <label text="ביטוח בריאות" class="type"></label>
+        </StackLayout>
+        <StackLayout row=3 col=0 class="box">
+            <image src="res://button8" ></image>
+            <label text="ביטוח נסיעות" class="type"></label>
+        </StackLayout>
+        <StackLayout row=3 col=1 class="box">
+            <image src="res://button10" ></image>
+            <label text="תאונות אישיות" class="type"></label>
+        </StackLayout>
+        <StackLayout (tap)="onDistress()" row=4 colSpan=2 class="box">
+            <image src="res://distress"></image>
+        </StackLayout>
+    </GridLayout>
+</StackLayout>

@@ -1,10 +1,13 @@
-<!-- <ActionBar title="Trampolina">
-        <ActionItem text="Share" (tap)="share()" android.systemIcon="ic_menu_share_holo_dark" ios.systemIcon="9" ios.position="right"></ActionItem>
-</ActionBar> -->
 <ScrollView oriantation="vertical">
+    <GridLayout rows="auto" columns="*,*,*" class="action-bar">
+            <image src="res://ic_menu_black_24dp" class="actionitem" col=0></image>
+            <image src="res://logo_w" class="actionitem" col=1></image>
+            <image src="res://ic_menu_black_24dp" class="actionitem" col=2></image>
+    </GridLayout>
+     
     <GridLayout rows="auto, auto, auto, auto, *" class="home-bar">
         <GridLayout row="0" columns="*, auto" class="name-bar">
-            <label text="ערב טוב, סמדר" col="0" class="greeting"></label>
+            <label text="ערב טוב, סמדר" col="0" class="greeting align-buttom"></label>
             <image src="res://avatar" class="avatar" col="1"></image>
         </GridLayout>
         <GridLayout #carbar row="1" class="car-bar shadowed" rows="*,*,*,*" columns="*,*">
@@ -27,7 +30,6 @@
         <GridLayout #actions row="3" rows="auto" columns="auto,*" >
             <button text="מצוקה!" row="0" col="0" (tap)="onDistress()" class="distress"></button>
             <button text="דיווח נזק" row="0" col="1" class="report"></button>
-
         </GridLayout>
     </GridLayout>
 </ScrollView>

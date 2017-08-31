@@ -5,6 +5,7 @@ C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\main.js
 C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\pages\distress\distress.component.js
 C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\pages\home\home.component.js
 C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\pages\login\login.component.js
+C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\pages\main\main.component.js
 C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\pages\register\register.component.js
 C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\pages\register\inputbox\inputbox.component.js
 C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\pages\signup\signup.component.js

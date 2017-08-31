@@ -1,4 +1,4 @@
-<ActionBar title="Trampolina">
+<!-- <ActionBar title="Trampolina">
         <ActionItem text="Share" (tap)="share()" android.systemIcon="ic_menu_share_holo_dark" ios.systemIcon="9" ios.position="right"></ActionItem>
 </ActionBar>
 <GridLayout rows="auto, *" columns="*">
@@ -11,4 +11,26 @@
                 <Button class="btn btn-primary btn-active" text="Watch Location" (tap)="startWatchingLocation()"></Button>
                 <Button class="btn btn-primary btn-active" text="Stop Watching" (tap)="stopWatchingLocation()"></Button>
             </StackLayout>
-</GridLayout>
+</GridLayout> -->
+<StackLayout>
+        <GridLayout rows="auto" columns="*,*,*" class="action-bar">
+                <image src="res://ic_menu_black_24dp" class="actionitem" col=0></image>
+                <image src="res://logo_w" class="actionitem" col=1></image>
+                <image src="res://ic_menu_black_24dp" class="actionitem" col=2></image>
+        </GridLayout>
+        <StackLayout class="body width-100">
+                <image src="res://avatar" class="avatar small-spacing align-right"></image>
+                <label text="סמדר," class="font-big centered bolded"></label>
+                <label text="לחצת על לחצן מצוקה" class="font-big centered bolded"></label>
+                <label text="אל דאגה, אנחנו כבר מתקשרים" class="font-big centered bolded"></label>
+                <StackLayout (tap)="onCancel()">
+                        <image src="res://cancel" class="cancel"></image>
+                </StackLayout>
+                <label text="במידה ואת לא מעוניינת" class="font-small centered bolded"></label>
+                <label text="אנא לחצי על ביטול" class="font-small centered bolded"></label>
+                <StackLayout orientation="horizontal" class="centered">
+                        <label text="מידע>" class="font-small centered"></label>
+                        <image src="res://i" class="i-button"></image>
+                </StackLayout>
+        </StackLayout>
+</StackLayout>

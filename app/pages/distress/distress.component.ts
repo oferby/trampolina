@@ -1,6 +1,8 @@
 import {Component, NgZone} from '@angular/core';
 import * as Geolocation from "nativescript-geolocation";
 import { Accuracy } from 'ui/enums';
+import { Router } from "@angular/router";
+import { Page } from "ui/page";
 
 @Component({
     selector: "distress",
@@ -15,31 +17,25 @@ export class DistressComponent {
     public horizontalAccuracy: number;
     private watchId: number;
 
-    constructor(private zone: NgZone){
+    constructor(private zone: NgZone, private page: Page, private router: Router){
 
         this.latitude = 0;
         this.longitude = 0;
         this.verticalAccuracy = 0;
         this.horizontalAccuracy = 0;
-
-        // // if (!isEnabled()) {
-        //     enableLocationRequest();
-        // } 
         
-        // this.buttonGetLocationTap();
-        this.updateLocation();
     }
 
-    // buttonGetLocationTap() {
-        // var location = getCurrentLocation({desiredAccuracy: Accuracy.high, updateDistance: 10, maximumAge: 20000, timeout: 20000}).
-        // then(function(loc) {
-        //     if (loc) {
-        //         console.log("Current location is: " + loc);
-        //     }
-        // }, function(e){
-        //     console.log("Error: " + e.message);
-        // });
-    // }
+    ngOnInit(){
+        this.page.actionBarHidden = true;
+        this.updateLocation();
+        this.startWatchingLocation();
+    }
+
+    onCancel() {
+        this.stopWatchingLocation();
+        this.router.navigate(["/main"]);
+    }
 
     private getDeviceLocation(): Promise<any> {
         return new Promise((resolve, reject) => {

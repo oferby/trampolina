@@ -29,26 +29,20 @@ label.greeting {
 }
 
 .bordered {
-    /* border-width: 2; 
-    border-color: black; */
     background-image: url("res://frame1");
     background-size: 100% 100%;
     background-repeat: no-repeat; 
 
 }
 
-.centered {
-    text-align: center;
-}
+
 
 .framed {
     margin: 5px;
 
 }
 
-.bolded {
-    font-weight: bold;
-}
+
 
 button.detail {
     background-color: #84BD00;

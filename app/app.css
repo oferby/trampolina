@@ -10,14 +10,11 @@ Page {
   background-color: white;
   font-size: 15;
 }
-TextField {
-  padding: 10;
-  font-size: 13;
-}
 
-Label {
-  padding: 10;
-  font-size: 13;
+.action-bar {
+  width: 100%;
+  background-color: black;
+  height: 8%;
 }
 
 .small-spacing {
@@ -27,3 +24,47 @@ Label {
   margin: 10;
 }
 
+.bolded {
+  font-weight: bold;
+}
+
+.centered {
+  /* text-align: center; */
+  horizontal-align: center;
+}
+
+.align-right {
+  horizontal-align: right;
+}
+
+.align-left {
+  horizontal-align: left;
+}
+
+.align-buttom {
+  vertical-align: bottom;
+}
+
+.align-top {
+  vertical-align: top;
+}
+
+.font-big {
+  font-size: 20;
+}
+
+.font-small {
+  font-size: 10;
+}
+
+.width-100 {
+  width: 100%;
+}
+
+image.avatar {
+  width: 200px;
+  background-color: #666666;
+  border-radius: 30;
+  border-width:1;
+  border-color:gray;
+}

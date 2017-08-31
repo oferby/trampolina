@@ -10,5 +10,9 @@
     {
         "merged": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xhdpi\\background1.png",
         "source": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\background1.png"
+    },
+    {
+        "merged": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xhdpi\\ic_menu_black_24dp.png",
+        "source": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\ic_menu_black_24dp.png"
     }
 ]

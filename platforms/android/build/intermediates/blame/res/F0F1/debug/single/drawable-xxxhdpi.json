@@ -1,15 +1,7 @@
 [
     {
-        "merged": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxxhdpi\\button6.png",
-        "source": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\button6.png"
-    },
-    {
-        "merged": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxxhdpi\\button10.png",
-        "source": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\button10.png"
-    },
-    {
-        "merged": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxxhdpi\\button9.png",
-        "source": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\button9.png"
+        "merged": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxxhdpi\\event_report.png",
+        "source": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\event_report.png"
     },
     {
         "merged": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxxhdpi\\done.png",
@@ -18,6 +10,42 @@
     {
         "merged": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxxhdpi\\cancel.png",
         "source": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\cancel.png"
+    },
+    {
+        "merged": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxxhdpi\\button4.png",
+        "source": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\button4.png"
+    },
+    {
+        "merged": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxxhdpi\\button1.png",
+        "source": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\button1.png"
+    },
+    {
+        "merged": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxxhdpi\\icon.png",
+        "source": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxxhdpi\\black_frame1.png",
+        "source": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\black_frame1.png"
+    },
+    {
+        "merged": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxxhdpi\\button7.png",
+        "source": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\button7.png"
+    },
+    {
+        "merged": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxxhdpi\\bg1.png",
+        "source": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\bg1.png"
+    },
+    {
+        "merged": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxxhdpi\\button10.png",
+        "source": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\button10.png"
+    },
+    {
+        "merged": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxxhdpi\\button6.png",
+        "source": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\button6.png"
+    },
+    {
+        "merged": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxxhdpi\\button9.png",
+        "source": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\button9.png"
     },
     {
         "merged": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxxhdpi\\frame1.png",
@@ -36,20 +64,8 @@
         "source": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\crash.png"
     },
     {
-        "merged": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxxhdpi\\black_frame.png",
-        "source": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\black_frame.png"
-    },
-    {
         "merged": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxxhdpi\\button8.png",
         "source": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\button8.png"
-    },
-    {
-        "merged": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxxhdpi\\button4.png",
-        "source": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\button4.png"
-    },
-    {
-        "merged": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxxhdpi\\button1.png",
-        "source": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\button1.png"
     },
     {
         "merged": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxxhdpi\\button5.png",
@@ -64,10 +80,6 @@
         "source": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\login_header.png"
     },
     {
-        "merged": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxxhdpi\\icon.png",
-        "source": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\icon.png"
-    },
-    {
         "merged": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxxhdpi\\logo.png",
         "source": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\logo.png"
     },
@@ -78,17 +90,5 @@
     {
         "merged": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxxhdpi\\i.png",
         "source": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\i.png"
-    },
-    {
-        "merged": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxxhdpi\\black_frame1.png",
-        "source": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\black_frame1.png"
-    },
-    {
-        "merged": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxxhdpi\\button7.png",
-        "source": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\button7.png"
-    },
-    {
-        "merged": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxxhdpi\\bg1.png",
-        "source": "C:\\dev\\nativescript\\Trampolina\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\bg1.png"
     }
 ]
