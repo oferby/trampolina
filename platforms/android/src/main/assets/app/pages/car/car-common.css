@@ -1,0 +1,23 @@
+.shadowed {
+    padding: 10 ;
+    background-image: url("res://black_frame1"); 
+    background-size: 100% 100%;
+    background-repeat: no-repeat; 
+    
+}
+
+.car-bar {
+    height: 30%;
+}
+
+.paymants-bar { 
+    height: 55%;
+}
+
+.i-button {
+    width: 100px;
+}
+
+.new {
+    width: 98%;
+}

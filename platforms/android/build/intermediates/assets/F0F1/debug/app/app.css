@@ -11,6 +11,22 @@ Page {
   font-size: 15;
 }
 
+.action-bar {
+  width: 100%;
+  background-color: black;
+  height: 8%;
+}
+
+.actionitem {
+  height: 90%;
+
+}
+
+.back-action {
+  height: 60%;
+  horizontal-align: left;
+}
+
 .small-spacing {
   margin: 5;
 }
@@ -22,8 +38,31 @@ Page {
   font-weight: bold;
 }
 
-.centered {
+.text-centered {
   text-align: center;
+}
+
+.centered {
+  horizontal-align: center;
+}
+
+.valign-center {
+  vertical-align: center;
+}
+.align-right {
+  horizontal-align: right;
+}
+
+.align-left {
+  horizontal-align: left;
+}
+
+.align-buttom {
+  vertical-align: bottom;
+}
+
+.align-top {
+  vertical-align: top;
 }
 
 .font-big {
@@ -36,4 +75,34 @@ Page {
 
 .width-100 {
   width: 100%;
+}
+
+.width-90 {
+  width: 90%;
+}
+
+.bordered {
+  background-image: url("res://frame1");
+  background-size: 100% 100%;
+  background-repeat: no-repeat; 
+}
+
+image.avatar {
+  width: 150px;
+  background-color: #666666;
+  border-radius: 30;
+  border-width:1;
+  border-color:gray;
+}
+
+button.green {
+  background-color: #84BD00;
+}
+
+.black {
+  color: black;
+}
+
+.white {
+  color: white;
 }

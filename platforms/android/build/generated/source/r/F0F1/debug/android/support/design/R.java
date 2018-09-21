@@ -673,11 +673,11 @@ public final class R {
 		public static final int abc_textfield_search_default_mtrl_alpha = 0x7f020050;
 		public static final int abc_textfield_search_material = 0x7f020051;
 		public static final int abc_vector_test = 0x7f020052;
-		public static final int avd_hide_password = 0x7f020054;
+		public static final int avd_hide_password = 0x7f020055;
 		public static final int avd_hide_password_1 = 0x7f020086;
 		public static final int avd_hide_password_2 = 0x7f020087;
 		public static final int avd_hide_password_3 = 0x7f020088;
-		public static final int avd_show_password = 0x7f020055;
+		public static final int avd_show_password = 0x7f020056;
 		public static final int avd_show_password_1 = 0x7f020089;
 		public static final int avd_show_password_2 = 0x7f02008a;
 		public static final int avd_show_password_3 = 0x7f02008b;

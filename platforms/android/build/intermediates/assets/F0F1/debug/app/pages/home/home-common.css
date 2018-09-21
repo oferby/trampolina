@@ -1,7 +1,3 @@
-image.avatar {
-    width: 120px;
-}
-
 label.greeting {
     font-weight: bold;
     font-size: 20;
@@ -11,10 +7,6 @@ label.greeting {
 .home-bar {
     padding: 10 5;
 }
-
-/* .name-bar {
-    margin: 6;
-} */
 
 .shadowed {
     padding: 33 ;

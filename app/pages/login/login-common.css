@@ -36,3 +36,7 @@ Button.new-account {
     background-color:  #0C0C8C;
     color: white;
   }
+
+  .box {
+      margin-top: 50;
+  }

@@ -1,12 +1,16 @@
 <StackLayout #container>
         <Image src="res://login_header"></Image>
         <button text="התחבר דרך פייסבוק" class="facebook-button" (tap)="submit()"></button>
-        <label text="או" ></label>
-        <TextField #email hint="הכנס כתובת אימייל" keyboardType="email" 
-            autocorrect="false" autocapitalizationType="none"></TextField>
-        <TextField #password hint="הכנס סיסמא" secure="true"></TextField>
-        <Button text="המשך>" class="submit-button proceed" (tap)="submit()"></Button>
-        <label text="שכחתי סיסמא. לחץ כאן>" ></label>
-        <label text="או" ></label>
-        <button text="צור חשבון חדש" class="new-account" (tap)="onCreateNew()"></button>
+        <StackLayout class="box">
+            <label text="או" ></label>
+            <TextField #email hint="הכנס כתובת אימייל" keyboardType="email" 
+                autocorrect="false" autocapitalizationType="none"></TextField>
+            <TextField #password hint="הכנס סיסמא" secure="true"></TextField>
+            <Button text="המשך>" class="submit-button proceed" (tap)="submit()"></Button>
+            <label text="שכחתי סיסמא. לחץ כאן>" ></label>
+        </StackLayout>
+        <StackLayout class="box">
+            <label text="או" ></label>
+            <button text="צור חשבון חדש" class="new-account" (tap)="onCreateNew()"></button>
+        </StackLayout>
     </StackLayout>

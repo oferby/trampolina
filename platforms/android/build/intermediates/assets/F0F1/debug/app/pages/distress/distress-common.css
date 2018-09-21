@@ -8,11 +8,6 @@ label {
     color: black;
 }
 
-.action-bar {
-    width: 100%;
-    background-color: black;
-    height: 8%;
-}
 
 .actionitem {
     height: 90%;
@@ -22,16 +17,12 @@ label {
     margin-top: 10px;
 }
 
-image.avatar {
-    width: 200px;
-    horizontal-align: right;
-    
-}
-
 .cancel {
     width: 40%;
+    margin: 50px;
 }
 
 .i-button {
     width: 50px;
+    margin-left: 20px;
 }

@@ -1,9 +1,3 @@
-<!-- <ActionBar title="" >
-    <ActionItem>
-        <image src="res://logo_w" class="logo"></image>
-    </ActionItem>
-    <ActionItem text="Share" (tap)="share()" android.systemIcon="ic_menu_share_holo_dark" ios.systemIcon="9" ios.position="right"></ActionItem>
-</ActionBar> -->
 <StackLayout>
     <GridLayout rows="auto" columns="*,*,*" class="action-bar">
             <image src="res://ic_menu_black_24dp" class="actionitem logo" col=0></image>
@@ -12,11 +6,13 @@
     </GridLayout>
     <GridLayout rows="auto,auto,auto,auto,*" columns="auto,auto" class="grid">
         <GridLayout row="0" colSpan=2 rows="auto,auto" columns="*,auto, auto" class="name-bar">
-            <label text="ערב טוב, סמדר" row=0 col="1" class="greeting"></label>
-            <image src="res://avatar" class="avatar" row=0 col="2"></image>
-            <label text="מה תרצי לעשות היום?" class="what-question" row=1 col=1></label>
+            <StackLayout  row=0 col=1 class="valign-center">
+                <label text="ערב טוב, סמדר" class="greeting align-buttom"></label>
+                <label text="מה תרצי לעשות היום?" class="what-question medium-spacing"></label>
+            </StackLayout>
+            <image src="res://avatar" class="avatar medium-spacing" row=0 col="2"></image>
         </GridLayout>
-        <StackLayout row=1 col=0 class="box">
+        <StackLayout row=1 col=0 class="box" (tap)="onCarSelect()">
             <image src="res://button5" ></image>
             <label text="ביטוח רכב" class="type"></label>
         </StackLayout>

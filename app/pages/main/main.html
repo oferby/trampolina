@@ -6,9 +6,11 @@
     </GridLayout>
     <GridLayout rows="auto,auto,auto,auto,*" columns="auto,auto" class="grid">
         <GridLayout row="0" colSpan=2 rows="auto,auto" columns="*,auto, auto" class="name-bar">
-            <label text="ערב טוב, סמדר" row=0 col="1" class="greeting align-buttom"></label>
+            <StackLayout  row=0 col=1 class="valign-center">
+                <label text="ערב טוב, סמדר" class="greeting align-buttom"></label>
+                <label text="מה תרצי לעשות היום?" class="what-question medium-spacing"></label>
+            </StackLayout>
             <image src="res://avatar" class="avatar medium-spacing" row=0 col="2"></image>
-            <label text="מה תרצי לעשות היום?" class="what-question medium-spacing" row=1 col=1></label>
         </GridLayout>
         <StackLayout row=1 col=0 class="box" (tap)="onCarSelect()">
             <image src="res://button5" ></image>

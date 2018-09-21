@@ -17,6 +17,16 @@ Page {
   height: 8%;
 }
 
+.actionitem {
+  height: 90%;
+
+}
+
+.back-action {
+  height: 60%;
+  horizontal-align: left;
+}
+
 .small-spacing {
   margin: 5;
 }
@@ -28,11 +38,17 @@ Page {
   font-weight: bold;
 }
 
+.text-centered {
+  text-align: center;
+}
+
 .centered {
-  /* text-align: center; */
   horizontal-align: center;
 }
 
+.valign-center {
+  vertical-align: center;
+}
 .align-right {
   horizontal-align: right;
 }
@@ -61,10 +77,32 @@ Page {
   width: 100%;
 }
 
+.width-90 {
+  width: 90%;
+}
+
+.bordered {
+  background-image: url("res://frame1");
+  background-size: 100% 100%;
+  background-repeat: no-repeat; 
+}
+
 image.avatar {
-  width: 200px;
+  width: 150px;
   background-color: #666666;
   border-radius: 30;
   border-width:1;
   border-color:gray;
+}
+
+button.green {
+  background-color: #84BD00;
+}
+
+.black {
+  color: black;
+}
+
+.white {
+  color: white;
 }

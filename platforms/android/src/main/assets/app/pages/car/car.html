@@ -1,0 +1,35 @@
+<StackLayout>
+        <GridLayout rows="auto" columns="*,*,*" class="action-bar">
+                <StackLayout  col=0 (tap)="onBack()" class="back-action">
+                    <image src="res://arrow_back_white" ></image>
+                </StackLayout>
+                <image src="res://logo_w" class="actionitem" col=1></image>
+                <image src="res://ic_menu_black_24dp" class="actionitem" col=2></image>
+        </GridLayout>
+        <StackLayout class="body width-100">
+            <image src="res://avatar" class="avatar small-spacing align-right"></image>
+            <StackLayout class="shadowed">
+                <GridLayout #carbar class="car-bar" rows="*,*,*,*" columns="*,*">
+                    <label text="סה'כ כיסוי רכב" row="0" colSpan="2" class="text-centered bolded font-big black"></label>
+                    <label text="{{total_covarage}} ש'ח" row="1" colSpan="2" class="total bordered text-centered bolded valign-center font-big width-100"></label>
+                    <label text="% השתתפות" row="2" col="1" class="text-centered valign-center font-big black"></label>
+                    <label text="0.012" row="2" col="0" class="percent bordered text-centered bolded valign-center font-big width-100"></label>
+                    <button text="לפירוט>" row=3 class="green"></button>
+                </GridLayout>
+            </StackLayout>
+            <StackLayout class="shadowed">
+                <GridLayout #paymants class="paymants-bar" rows="*,*,*,*,*" columns="*,*">
+                    <label text="סה'כ השתתפות בנזקים" row="0" colSpan="2" class="text-centered bolded font-big black"></label>
+                    <label text="שנה אחרונה" row="1" col="1" class="text-centered valign-center font-big black"></label>
+                    <label text="{{last_year}}" row="1" col="0" class="bordered text-centered bolded valign-center font-big width-100"></label>
+                    <label text="חודש אחרון" row="2" col="1" class="text-centered valign-center font-big black"></label>
+                    <label text="{{last_month}}" row="2" col="0" class="bordered text-centered bolded valign-center font-big width-100"></label>
+                    <label text="חיוב קרוב" row="3" col="1" class="text-centered valign-center font-big black"></label>
+                    <label text="{{next_charge}}" row="3" col="0" class="bordered text-centered bolded valign-center font-big width-100"></label>
+                    <button text="לפירוט >" row="4" col=0 class="green"></button>
+                    <image src="res://i" row=4 col=1 class="i-button"></image>
+                </GridLayout>
+            </StackLayout>
+        </StackLayout>
+        <button text="צור ביטוח חדש>" class="new white green width-100 bolded"></button>
+ </StackLayout>

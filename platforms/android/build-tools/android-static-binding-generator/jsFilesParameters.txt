@@ -2,6 +2,7 @@ C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\app.compone
 C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\app.module.js
 C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\app.router.js
 C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\main.js
+C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\pages\car\car.component.js
 C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\pages\distress\distress.component.js
 C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\pages\home\home.component.js
 C:\dev\nativescript\Trampolina\platforms\android\src\main\assets\app\pages\login\login.component.js

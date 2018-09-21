@@ -6,6 +6,10 @@ import { NativeScriptRouterModule } from "nativescript-angular/router";
 
 import { AppComponent } from "./app.component";
 import { routes, navigatableComponents } from "./app.router";
+import {
+  UserLoginService, IUserLogin, UserState,
+  UserRegistrationService, CognitoUtil
+} from './services/account-management.service';
 
 @NgModule({
   imports: [

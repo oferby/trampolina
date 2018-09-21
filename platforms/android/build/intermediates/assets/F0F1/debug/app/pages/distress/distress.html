@@ -19,11 +19,13 @@
                 <image src="res://ic_menu_black_24dp" class="actionitem" col=2></image>
         </GridLayout>
         <StackLayout class="body width-100">
-                <image src="res://avatar" class="avatar small-spacing"></image>
+                <image src="res://avatar" class="avatar small-spacing align-right"></image>
                 <label text="סמדר," class="font-big centered bolded"></label>
                 <label text="לחצת על לחצן מצוקה" class="font-big centered bolded"></label>
                 <label text="אל דאגה, אנחנו כבר מתקשרים" class="font-big centered bolded"></label>
-                <image src="res://cancel" class="cancel"></image>
+                <StackLayout (tap)="onCancel()">
+                        <image src="res://cancel" class="cancel"></image>
+                </StackLayout>
                 <label text="במידה ואת לא מעוניינת" class="font-small centered bolded"></label>
                 <label text="אנא לחצי על ביטול" class="font-small centered bolded"></label>
                 <StackLayout orientation="horizontal" class="centered">

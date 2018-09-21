@@ -23,7 +23,7 @@ export class MainComponent implements OnInit {
     }
 
     onCarSelect() {
-        this.router.navigate(["/home"]);
+        this.router.navigate(["/car"]);
     }
 
 }

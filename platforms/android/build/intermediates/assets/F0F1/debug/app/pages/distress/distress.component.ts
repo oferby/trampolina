@@ -32,6 +32,11 @@ export class DistressComponent {
         this.startWatchingLocation();
     }
 
+    onCancel() {
+        this.stopWatchingLocation();
+        this.router.navigate(["/main"]);
+    }
+
     private getDeviceLocation(): Promise<any> {
         return new Promise((resolve, reject) => {
             Geolocation.enableLocationRequest().then(() => {

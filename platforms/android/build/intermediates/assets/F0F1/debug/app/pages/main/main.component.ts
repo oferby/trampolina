@@ -21,4 +21,9 @@ export class MainComponent implements OnInit {
     onDistress() {
         this.router.navigate(["/distress"]);
     }
+
+    onCarSelect() {
+        this.router.navigate(["/car"]);
+    }
+
 }
